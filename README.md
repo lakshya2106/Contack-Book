@@ -51,3 +51,36 @@ The project focuses on:
 
 ## 📂 Project Structure
 
+Contact-Management-System/
+│
+├── index.py          # Main application file
+├── pythontut.db      # SQLite database (auto-generated)
+├── README.md         # Project documentation
+└── assets/           # Screenshots & resources
+
+
+
+---
+
+## 🗃 Database Design
+
+### Table: `member`
+
+| Field Name | Data Type | Description |
+|----------|----------|-------------|
+| mem_id | INTEGER | Primary Key (Auto Increment) |
+| firstname | TEXT | First Name |
+| lastname | TEXT | Last Name |
+| gender | TEXT | Gender |
+| age | TEXT | Age |
+| address | TEXT | Address |
+| contact | TEXT | Contact Number |
+
+---
+
+## ⚙️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/Contact-Management-System.git
+cd Contact-Management-System
