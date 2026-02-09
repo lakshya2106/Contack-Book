@@ -1,6 +1,6 @@
 # 📇 Contact Management System  
 <p align="center">
-  <img src="assets/project-banner.png" alt="Contact Management System Banner" width="100%">
+  <img src="theme.png" alt="Contact Management System Banner" width="100%">
 </p>
 
 ### Desktop Application using Python, Tkinter & SQLite
