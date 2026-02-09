@@ -1,4 +1,8 @@
 # 📇 Contact Management System  
+<p align="center">
+  <img src="assets/project-banner.png" alt="Contact Management System Banner" width="100%">
+</p>
+
 ### Desktop Application using Python, Tkinter & SQLite
 
 A **modern, desktop-based Contact Management System** developed using **Python (Tkinter GUI)** and **SQLite database**.  
